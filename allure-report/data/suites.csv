@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13165","test_login_ddt","testcases","Mon Sep 01 15:22:55 IST 2025","failed","Mon Sep 01 15:23:09 IST 2025","TestLogin001","test_login_DDT","",""
+"","6399","test_login","testcases","Mon Sep 01 15:22:47 IST 2025","failed","Mon Sep 01 15:22:53 IST 2025","TestLogin001","test_login","",""
+"","1943","test_homepagetile","testcases","Mon Sep 01 15:22:43 IST 2025","passed","Mon Sep 01 15:22:45 IST 2025","TestLogin001","test_login","",""
